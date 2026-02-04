@@ -93,7 +93,6 @@ Full-Stack Software Developer | React | Next.js | Node.js | TypeScript | MongoDB
 
 ## 🚀 Featured Projects
 
-> (Replace with your best projects)
 
 ### 🌍 NectRural
 Connecting schools in underserved communities with NGOs and donors.
