@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Elizabeth D</h1>
-<h3 align="center">A passionate frontend developer from Ghana</h3>
+<h1 align="center">Hi 👋, I'm Elizabeth </h1>
+<h3 align="center">A full stack developer from Ghana</h3>
 
-- 🔭 I’m currently working on [EduTrack](https://github.com/RuthNyankum/EduTrack)
+- 💻 Full-stack developer focused on building efficient and user-friendly applications
 
-- 🌱 I’m currently learning **React,Typescript, nodejs etc**
+- 🌱 Currently deepening my knowledge in React, TypeScript, and backend development with Node.js
+
+- 🚀 Always working on improving my problem-solving and system design skills
+
+- ⚡ Fun fact: I believe great tech is built by great teamwork and good vibes
+
+
 
 - 📫 How to reach me **elizabethbarden18@gmail.com**
 
-- ⚡ Fun fact **i believe i am fun to be with**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
